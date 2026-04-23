@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Georgia
 
-> Free BeamStation sample export with 119 rows and masked direct-contact fields.
+> Free BeamStation sample export with 145 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `356200` |
 | Location | Georgia |
 | Category | Food and Drink |
-| Full dataset size | 1,197 records |
-| Free sample size | 119 records (9.94%) |
-| Last export | 2026-04-16T21:47:47.437441+00:00 |
+| Full dataset size | 1,452 records |
+| Free sample size | 145 records (9.99%) |
+| Last export | 2026-04-23T16:49:50.387922+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-356200/releases/download/sample-latest/beamstation_356200_food_and_drink-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
